@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/shash_137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ak472000" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/shashank137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shashank137" height="30" width="40" /></a>
+
+
+<a href="https://www.leetcode.com/shash137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shash137" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/www.linkedin.com/in/shashank137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashank137" height="30" width="40" /></a>
+</p>
+
 <!--
 **shash137/shash137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
